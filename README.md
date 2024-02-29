@@ -7,7 +7,7 @@ A library to use the ADNS5050 optical mouse sensor from Avago with the Arduino I
   Initialize the sensor object. Replace [sensorname] with the name you chose in the objectcreation for your sensor.
 - **[sensorname].read([register])**
   Read out register values. Replace [sensorname] with the name you chose in the objectcreation for your sensor. Change register with the register HEX value or with one of the following predefinitions:
-  - PRODUCT_ID          0x00
+  - PRODUCT_ID &nbsp;&nbsp;&nbsp;&nbsp; 0x00
   - PRODUCTID2          0x3e
   - REVISION_ID         0x01
   - DELTA_X_REG         0x03
