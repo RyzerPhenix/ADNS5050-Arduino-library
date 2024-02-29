@@ -1,5 +1,6 @@
 /*
 * X- and Y_register readout example using the ADNS5050 library.
+* In this example a Raspberry Pi Pico was used. If you want to use another microcontroller, cahnge the pin definitions according to your needs.
 * Autor: RyzerPhenix
 * Date: 29.01.2024
 * Version: 1.0
