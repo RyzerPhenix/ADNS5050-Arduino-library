@@ -25,5 +25,5 @@ A library to use the ADNS5050 optical mouse sensor from Avago with the Arduino I
   - SHUTTER_LOWER_REG = 0x07
   - MOUSE_CONTROL = 0x0D
 - **[sensorname].write([register], [data])**  
-  Write a value to a register. Replace [sensorname] with the name you chose in the objectcreation for your sensor. Replace register with the register HEX value or with one of the predefinitions. Replace data with the value you want to   write to the register.
+  Write a value to a register. Replace [sensorname] with the name you chose in the objectcreation for your sensor. Replace register with the register HEX value or with one of the predefinitions. Replace data with the value you want to   write to the register.  
 **NOTE: reffer to the ADNS5050 Datasheet for read/write operations.**
